@@ -11,3 +11,5 @@ thrtyone_to_40 = []
 frtyone_to_50 = []
 
 num = int(input("enter a number here: "))
+
+while True:
