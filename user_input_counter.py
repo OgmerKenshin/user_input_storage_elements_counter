@@ -36,7 +36,8 @@ while True:
     else:
         print("invalid input, 1-10 = ",len(one_to_10))
         print("11-20 = ",len(elevn_to_20))
-        print("21-30",len(twntyone_to_30))
+        print("21-30 = ",len(twntyone_to_30))
+        print("31-40 = ",len(thrtyone_to_40))
     
 
             
