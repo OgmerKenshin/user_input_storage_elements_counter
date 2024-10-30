@@ -13,3 +13,6 @@ frtyone_to_50 = []
 num = int(input("enter a number here: "))
 
 while True:
+    if num > 0 and num < 11:
+        print("your input has been placed in the 1-10 box: ")
+        one_to_10.append(num)
