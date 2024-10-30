@@ -33,3 +33,7 @@ while True:
         print("ur input has been placed in box 41-50")
         frtyone_to_50.append(num)
         num = int(input("input another number:"))
+    else:
+        print("invalid input")
+        for num in one_to_10:
+            
