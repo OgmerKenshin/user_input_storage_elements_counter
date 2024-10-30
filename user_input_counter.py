@@ -34,6 +34,8 @@ while True:
         frtyone_to_50.append(num)
         num = int(input("input another number:"))
     else:
-        print("invalid input")
-        for num in one_to_10:
+        print("invalid input, 1-10 = ",len(one_to_10))
+        break
+    
+
             
