@@ -38,6 +38,8 @@ while True:
         print("11-20 = ",len(elevn_to_20))
         print("21-30 = ",len(twntyone_to_30))
         print("31-40 = ",len(thrtyone_to_40))
+        print("41-50 = ",len(frtyone_to_50))
+        break
     
 
             
