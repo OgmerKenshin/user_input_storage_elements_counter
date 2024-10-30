@@ -35,6 +35,7 @@ while True:
         num = int(input("input another number:"))
     else:
         print("invalid input, 1-10 = ",len(one_to_10))
+        print("11-20 = ",len(elevn_to_20))
         break
     
 
