@@ -9,3 +9,5 @@ elevn_to_20 = []
 twntyone_to_30 = []
 thrtyone_to_40 = []
 frtyone_to_50 = []
+
+num = int(input("enter a number here: "))
