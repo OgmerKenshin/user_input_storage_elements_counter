@@ -21,3 +21,7 @@ while True:
         print("your input has been stored in box 11-20")
         elevn_to_20.append(num)
         num = int(input("input another number:"))
+    elif num > 21 and num > 30:
+        print("your input has been stored in the 21-30 box")
+        twntyone_to_30.append(num)
+        num = int(input("input another number:"))
