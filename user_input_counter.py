@@ -29,3 +29,7 @@ while True:
         print("ur input is stored in box 31-40")
         thrtyone_to_40.append(num)
         num = int(input("input another number:"))
+    elif num > 40 and num < 51:
+        print("ur input has been placed in box 41-50")
+        frtyone_to_50.append(num)
+        num = int(input("input another number:"))
