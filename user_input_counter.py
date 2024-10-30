@@ -17,15 +17,15 @@ while True:
         print("your input has been placed in the 1-10 box: ")
         one_to_10.append(num)
         num = int(input("input another number:"))
-    elif num > 11 and num < 20:
+    elif num > 10 and num < 21:
         print("your input has been stored in box 11-20")
         elevn_to_20.append(num)
         num = int(input("input another number:"))
-    elif num > 21 and num > 30:
+    elif num > 20 and num < 31:
         print("your input has been stored in the 21-30 box")
         twntyone_to_30.append(num)
         num = int(input("input another number:"))
-    elif num > 31 and num < 40:
+    elif num > 30 and num < 41:
         print("ur input is stored in box 31-40")
         thrtyone_to_40.append(num)
         num = int(input("input another number:"))
